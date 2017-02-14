@@ -1,0 +1,719 @@
+/*-----------------------------------------------------------------*/
+/*Yang's changes on menu section, highlighted font*/
+#signin {
+	   text-transform: uppercase;
+	   text-decoration: none;
+	   color: #7c868d;
+	   font-size: 14px;
+
+}
+.intro {
+	margin-top: -40px;
+}
+#benefitsintroleft{
+	background-image: url(images/frontimgleft.png);
+}
+
+#benefitsintroright {
+	background-image: url(images/frontimgright.png);
+}
+
+/*header section pic words*/
+h1 {
+	color: #7c868d;
+	font-size: 70px;
+}
+
+
+
+/*main content introduction*/
+.maincontent {
+	margin-top: 50px;
+}
+.maincontent .col-md-9 {
+	width: 60%;
+	left: 30px;
+
+	font-size: 14px;
+}
+
+
+
+.maincontent .col-md-9 h2 {
+	color: #7c868d;
+	font-family: 'Gotham', 'Helvetica', sans-serif;
+	font-weight: normal;
+	margin-bottom: 10px;
+}
+.maincontent .col-md-9 p {
+	color: #7c868d;
+	margin-bottom: 1.5em;
+}
+/*seperator line*/
+.separator {
+	border-bottom: 2px solid;
+    color: #7cbbaf;
+    position: relative;
+}
+.separator:before {
+	content: '';
+    position: absolute;
+    top: -25px;
+    left: 50%;
+    background: url(images/div.png) no-repeat 0 0;
+    width: 52px;
+    height: 52px;
+}
+/*sub category list*/
+.subcategory {
+	margin-top: 10px;
+}
+.subcategory h2 {
+	color: #7c868d;
+	font-family: 'Gotham', 'Helvetica', sans-serif;
+	font-weight: normal;
+}
+#subcategorytitle {
+	margin-bottom: 20px;
+}
+.subcategory .row {
+	margin: 10px;
+	font-weight: 700;
+}
+.subcategory a{
+	text-decoration: none;
+	color: #90ccbe;
+	font-weight: 20px;
+}
+.subcategory .col-lg-2 {
+	font-weight: 700;
+	text-decoration: none;
+	width: 33%;
+	
+}
+.subcategory .col-lg-2 li {
+	list-style-type: none;
+	margin: 10px;
+}
+
+/*side introduction for other Benefits*/
+
+.maincontent {
+	padding-right: 0;
+}
+.maincontent .col-md-3 {
+	padding-right: 0;
+	width: 30%;
+	margin-left: 10%;
+}
+.maincontent .col-md-3 h2 {
+	width: 70%;
+	margin-bottom: 20px;
+	font-family: 'Gotham', 'Helvetica', sans-serif;
+	font-weight: normal;
+	color: #7c868d;
+
+}
+.maincontent .col-md-3 ul {
+	 list-style-type: none;
+}
+.maincontent .col-md-3 li {
+	line-height: 200%;
+}
+.maincontent .col-md-3 a {
+	text-decoration: none;
+	color: #90ccbe;
+	font-weight: 700;
+}
+#leaves {
+	width: 100%;
+}
+/*Personal story*/
+
+#climbe {
+	background-color: #90ccbe;
+	margin: auto;
+	height: 360px;
+	padding: 0;
+} 
+#climbe span {
+	text-align: right;
+}
+.climberstory {
+	width: 50%;
+	position: relative;
+    left: 60px;
+    padding: 10px;
+    padding-top: 40px;
+}
+.climberstory h2 {
+	font-family: 'Gotham', 'Helvetica', sans-serif;
+	font-weight: normal;
+	color: #7c868d;
+}
+.climberstory h3 {
+	font-family: 'Gotham', 'Helvetica', sans-serif;
+	font-weight: 700;
+	color: #7c868d;
+}
+.climberstory p {
+	font-family: 'Gotham', 'Helvetica', sans-serif;
+	font-size: 20px;
+	color: #7c868d;
+	margin-bottom: 0;
+	margin-top: 10px;
+
+}
+#climbe .col-md-6 {
+	display: inline-block;
+}
+#climberimg {
+	width: 390px;
+    height: 361px;
+    position: absolute;
+    right: -18px;
+}
+.separator:before{
+	content: '';
+    position: absolute;
+    top: -25px;
+    left: 50%;
+    background: url(images/div.png) no-repeat 0 0;
+    width: 52px;
+    height: 52px;
+}
+/*Recipe sliders*/
+.recipessliders h2 {
+	font-family: 'Gotham', 'Helvetica', sans-serif;
+	font-weight: normal;
+	color: #7c868d;
+	text-align: center;
+	margin-top: 60px;
+
+}
+.recipessliders .froala_container {
+	margin-bottom: 10px;
+}
+/*Food Product Display Section*/
+
+.foodproduct h2 {
+	font-family: 'Gotham', 'Helvetica', sans-serif;
+	font-weight: normal;
+	color: #7c868d;
+	text-align: center;
+	margin-top: 60px;
+	margin-bottom: 30px;
+}
+
+
+.foodproduct .col-md-4 {
+	text-align: center;
+	margin-bottom: 40px;
+	font-size: 16px;
+	color: #7c868d;
+	font-weight: 700;
+}
+
+#foodgroup {
+	position: relative;
+
+}
+.foodproduct .col-md-2 {
+	margin: 10px;
+	font-weight: normal;
+}
+.foodproduct button {
+	background-color: #7cbbaf;
+	border: 1px solid #7cbbaf;
+}
+#lastrow {
+	text-align: center;
+}
+
+@media (min-width:1280px) {
+/* Styles */
+.intro .intro-body {
+	min-height: 970px;
+}
+}
+
+@media (max-width: 1630px) {
+	#climbe {
+		height: 400px;
+	}
+	#climberimg {
+		height: 400px;
+	}
+}
+@media (max-width: 1306px){
+	#climberimg{
+		height: 400px;
+}
+.climberstory h2 {
+	font-family: 'Gotham','Helvetica',sans-serif;
+	color: #7c868d;
+
+}
+.climberstory p {
+	font-family: 'Gotham','Helvetica',sans-serif;
+	color: #7c868d;
+}
+}
+@media (max-width: 1140px) {
+	#climbeimg {
+		height: 452px;
+		
+	}
+	#climbe{
+		height: 400px;
+	}
+	.climberstory p{
+		font-size: 18px;
+	}
+	#introwords h1 {
+		font-size: 24px;
+	}
+	.maincontent .col-md-3 h2 {
+		width: 100%;
+		font-size: 28px;
+	}
+
+} /* sftp://54.175.207.40  CwP9psuEP   */
+@media (max-width: 1000px){
+
+	.maincontent .col-md-9{
+		 width: 100%;
+    	 left: 5px;
+    	 margin-bottom: 40px;
+	}
+	.maincontent .col-md-3 {
+		  margin-left: 0;
+    	  width: 100%;
+    	  text-align: center;
+	}
+	#climbe .col-md-6{
+		    width: 85%;
+		height: 800px;
+		text-align: center;
+	}
+	#climberimg {
+		left: 100px;
+    	width: initial;
+    	height: 360px;
+    	
+	}
+	#climbe .col-md-6 {
+		height: 220px;
+		width: 50%;
+	}
+	#climbe {
+		height: 360px;
+	}
+	.climberstory h2 {
+		font-size: 24px;
+	}
+	.climberstory h3 {
+		font-size: 20px;
+	}
+	.climberstory p {
+		font-size: 14px;
+	}
+	.subcategory {
+		text-align: center;
+	}
+}
+@media (max-width: 992px){
+	
+	.subcategory .col-lg-2 {
+		width: 100%;
+	}
+	#climberimg{
+		float: left;
+		position: block;
+		width: 65%;
+        left: inherit;
+	}
+	#introwords h1 {
+		font-size: 28px;
+	}
+}
+
+@media(max-width: 853px){
+	#climbe {
+		height: 400px;
+	}
+	#climberimg{
+		height: 400px;
+		
+	}
+}
+
+@media(max-width: 766px){
+	#benefitsintroleft{
+		width: 100%;
+		margin: auto;
+		
+	}
+	#climbe{
+		height: 400px;
+	}
+	#climberimg{
+		height: 400px;
+		
+	}
+}
+@media(max-width: 750px){
+	.maincontent .col-md-9{
+		width: 90%;
+		text-align: center;
+	}
+	.subcategory .col-lg-2 {
+		width: 100%;
+	}
+	.maincontent .col-md-3 {
+		width: 100%;
+	}
+	.maincontent .col-md-3 h2 {
+		width: 100%;
+	}
+	.maincontent .col-md-3 ul {
+		margin-left: -12%;
+	}
+
+}
+
+@media (max-width: 630px){
+		#climbe{
+			height: 480px;
+		}
+		#climbe .col-md-6{
+			width: 49%;
+		}
+	    #climberimg{
+	    	height:  480px;
+    	    
+}
+}
+@media (max-width: 560px){
+	.subcategory a {
+		font-size: 12px;
+	}
+	.maincontent .col-md-3 a{
+		font-size: 12px;
+	}
+	.maincontent .col-md-3 {
+		width: 107%;
+   		 margin-left: -30px;
+	}
+	#climbe{
+			height: 560px;
+		}
+	#climberimg{
+		height: 280px;
+    	margin-top: 60px;
+    	width: 100%;
+	}
+	#climbe .col-md-6{
+		width: 100%;
+   	 	left: 0;
+	}
+	.maincontent .col-md-3 ul {
+		margin-left: -7%;
+	}
+}
+
+@media (max-width: 512px){
+	#climberimg{
+		    height: 250px;
+    margin-top: 90px;
+	}
+}
+
+
+@media (max-width: 420px){
+	
+	#climbe .col-md-6{
+		width: 100%;
+	}
+	#climbe{
+		height: 600px;
+	}
+	#climberimg{
+		    margin-top: 130px;
+	}
+	#introwords h1 {
+		font-size: 22px;
+	}
+	.maincontent .col-md-3 ul{
+		margin-left: -3%;
+	}
+}
+@media (max-width: 410px){
+	#climbe{
+		height: 620px;
+	}
+	#climberimg{
+		    margin-top: 150px;
+	}
+	.container-fluid p {
+		font-size: 12px;
+	}
+
+}
+@media (max-width: 370px){
+	#climbe{
+		height: 691px;
+	}
+	#climberimg{
+		    margin-top: 180px;
+	}
+	.maincontent .col-md-9 p{
+		font-size: 12px;
+	}
+	#climbe .col-md-6 {
+		padding: 12%;
+	}
+}
+
+
+	@media (max-width: 300px) {
+		#climbe .col-md-6{
+		width: 88%;
+	}
+	#climbe{
+		height: 780px;
+	}
+	#climberimg{
+		height: 277px;
+		margin-top: 245px;
+	}
+	.maincontent .col-md-9 {
+		left: -10px;
+	}
+	h1 {
+		font-size: 22px;
+	}
+	}
+	@media (max-width: 270px){
+		.maincontent .col-md-9 h2{
+			font-size: 18px;
+		}
+		.maincontent .col-md-9 p{
+			font-size: 12px;
+			width: 85%;
+			text-align: center;
+		}
+		.subcategory {
+			width: 85%;
+		}
+		.maincontent .col-md-3 h2 {
+			width: 90%;
+    		font-size: 18px;
+		}
+		.maincontent .col-md-3 {
+			width: 80%;
+		}
+		.maincontent .col-md-3 ul{
+			margin-left: 10%;
+		}
+		.recipessliders h2{
+			font-size: 18px;
+			 width: 0%;
+    		margin: 20px 100px;
+
+		}
+		.foodproduct h2 {
+			font-size: 18px;
+			 width: 0%;
+    		margin: 20px 100px;
+
+		}
+
+
+	}
+
+
+
+/*ask questions web page*/
+/*------------------------------------------------------------------------------*/
+/*Yang's part.*/
+
+/*main section */
+#mainsection {
+	background-color: #7cbbaf;
+	padding: 0;
+}
+#mainsection .col-lg-4 {
+	margin-left: 60px;
+    margin-top: 30px;
+    color: #7c868d;
+}
+#mainsection h2 {
+	font-size: 60px;
+	font-family: 'Archer', 'Helvetica', sans-serif;
+	
+}
+#mainsection p {
+	
+	font-size: 38px;
+	font-weight: 500;
+}
+/*main section for image*/
+#mainsection .col-lg-7 {
+	margin-left: 20px;
+	padding: 0;
+  	float: right;
+}
+
+#questionmainpic {
+	width: 100%;
+}
+/*questions asked section*/
+#maincontent {
+ 	margin-top: 40px;
+ }
+#maincontent .col-lg-9 {
+ 	width: 59%;
+ 	font-family: 'Archer', 'Helvetica', sans-serif;
+ 	color: #7c868d;
+ 	margin-left: 5%;
+ }
+#maincontent .col-lg-9 li {
+
+    font-size: 22px;
+    margin: 10px;
+ }
+#maincontent .col-lg-9 a {
+  	 	text-decoration: none;
+  }
+
+/*questions answered section*/
+#maincontent .col-lg-9 .answerfaq h2{
+   		font-size: 30px;
+   }
+ #maincontent .col-lg-9 .answerfaq {
+    	margin-top: 60px;
+   }
+#maincontent .col-lg-9 .answerfaq p {
+	font-size: 18px;
+	margin: 30px 0;
+}
+#maincontent .col-lg-3 {
+	margin-left: 11%;
+	padding-right: 1%;
+}
+
+/*side chef1 section*/
+#chef1 h2{
+	letter-spacing: 7px;
+	font-family: 'Archer', 'Helvetica', sans-serif;
+	color: #7c868d;
+	text-align: center;
+}
+#chef1img {
+	width: 100%;
+}
+#chef1 h6 {
+	color: #7c868d;
+	font-size: 16px;
+	margin-top: 30px;
+
+}
+#chef1 p {
+	color: #7c868d;
+	font-size: 18px;
+}
+#chef1 a {
+	text-decoration: none;
+	color: #7cbbaf;
+	font-weight: 700;
+}
+
+/*side chef2 section*/
+#chef2 {
+	margin-top: 90px;
+}
+#chef2img {
+	width: 100%;
+}
+
+#chef2 h6 {
+		color: #7c868d;
+	font-size: 16px;
+	margin-top: 30px;
+}
+#chef2 p {
+	color: #7c868d;
+	font-size: 18px;
+}
+
+#chef2 a {
+	text-decoration: none;
+	color: #7cbbaf;
+	font-weight: 700;
+}
+
+/*Responsive Design*/
+@media only screen and (max-width: 1725px){
+	#mainsection h2 {
+		font-size: 40px;
+	}
+	#mainsection p {
+		font-size: 22px;
+	}
+	#mainsection {
+		height: 500px;
+	}
+	#questionmainpic {
+		height: 500px;
+	}
+}
+@media only screen and (max-width: 1572px){
+	#mainsection .col-lg-4 {
+		width: 20%;
+	}
+}
+@media only screen and (max-width: 1445px) {
+	#mainsection h2{
+		margin: 0;
+	}
+}
+@media only screen and (max-width: 1200px) {
+	#maincontent .col-lg-9{
+		margin-left: 20%;
+	}
+	#mainsection .col-lg-4{
+		float: left;
+	}
+}
+@media only screen and (max-width: 1118px){
+	#mainsection .col-lg-4{
+		text-align: center;
+		width: 90%;
+		margin-bottom: 30px;
+	}
+
+	#mainsection .col-lg-7{
+		margin-left: 0;
+		float: inherit;
+	}
+	#mainsection{
+		height: 803px;
+	}
+}
+@media only screen and (max-width: 635px){
+	#mainsection{
+		height: 830px;
+	}
+	#mainsection .col-lg-4{
+		width: 80%;
+	}
+}
+@media only screen and (max-width: 512px){
+	#mainsection{
+		height: 886px;
+	}
+	#maincontent{
+		margin-top: 100px;
+	}
+}

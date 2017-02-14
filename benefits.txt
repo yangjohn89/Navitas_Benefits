@@ -1,0 +1,231 @@
+<div class="intro">
+	<div class="intro-body bg-image" id="benefitsintroleft">
+		
+	</div><!-- /.intro-body -->
+
+	<div class="intro-aside bg-image" id="benefitsintroright">
+		
+	</div><!-- /.intro-aside -->
+</div><!-- /.intro -->
+
+	<div class="pagination">
+		<a href="#">HOME</a>
+		<a href="#">&#62&#62</a>
+		<a href="#">SUPER BENEFITS</a>
+		<a href="#">&#62&#62</a>
+		<a href="#">ANTI-AGING</a>
+	</div>
+	<section class="container-fluid maincontent">
+	
+	<div class="col-md-9">
+		<h2>Superfood Super Benefits - ANTI-AGING</h2>
+		<div>
+			<p>Proin iaculis aliquet leo nec venenatis. Nunc et fringilla eros. Vestibulum congue, mauris sed pretium gravida, libero orci molestie turpis, a tincidunt dui dolor eu nisi. Proin pretium leo vel est auctor, vehicula pharetra urna ornare. Morbi aliquam, nibh sit amet feugiat convallis, enim eros interdum ligula, ut sollicitudin nisl velit quis lacus. Aliquam mattis interdum suscipit. Integer congue, nibh ut dictum mattis, dui diam pharetra lorem, non auctor libero urna sit amet tellus.Proin pretium leo vel est auctor, vehicula pharetra urna ornare.</p>
+			<br>
+			<p>Proin iaculis aliquet leo nec venenatis. Nunc et fringilla eros. Vestibulum congue, mauris sed pretium gravida, libero orci molestie turpis, a tincidunt dui dolor eu nisi. Proin pretium leo vel est auctor, vehicula pharetra urna ornare. Morbi aliquam, nibh sit amet feugiat convallis, enim eros interdum ligula, ut sollicitudin nisl velit quis lacus. Aliquam mattis interdum suscipit. Integer congue, nibh ut dictum mattis, dui diam pharetra lorem, non auctor libero urna sit amet tellusProin pretium leo vel est auctor, vehicula pharetra urna ornare.</p>
+			<br>
+			<p>Proin iaculis aliquet leo nec venenatis. Nunc et fringilla eros. Vestibulum congue, mauris sed pretium gravida, libero orci molestie turpis, a tincidunt dui dolor eu nisi. Proin pretium leo vel est auctor, vehicula pharetra urna ornare. Morbi aliquam, nibh sit amet feugiat convallis, enim eros interdum ligula, ut sollicitudin nisl velit quis lacus. Aliquam mattis interdum suscipit. Integer congue, nibh ut dictum mattis, dui diam pharetra lorem, non auctor libero urna sit amet tellusProin pretium leo vel est auctor, vehicula pharetra urna ornare.</p>
+			<br>
+			<div class="separator"></div><!-- /.separator -->
+			<div class="subcategory">
+				<br>
+				<h2>Learn how Navitas Superfoods can benefit you today.</h2>
+				<p>Match the goal that you have with the Navitas Superfood that is right for you.</p>
+				<div class="row">
+					<div class="col-md-4"><a href="#">ANTI-AGING &#62</a></div>
+					<div class="col-md-4"><a href="#">ANTIOXIDANTS &#62</a></div>
+					<div class="col-md-4"><a href="#">LOW-GLYCEMIC &#62</a></div>
+				</div>
+				<div class="row">
+					<div class="col-md-4"><a href="#">CLEASNING &#62</a></div>
+					<div class="col-md-4"><a href="#">ENERGY &#62</a></div>
+					<div class="col-md-4"><a href="#">KID-FRIENDLY &#62</a></div>
+				</div>
+				<div class="row">
+					<div class="col-md-4"><a href="#">IMMUNITY &#62</a></div>
+					<div class="col-md-4"><a href="#">LO<a href="#">NGEVITY &#62</a></div>
+					<div class="col-md-4"><a href="#">PROTEIN &#62</a></div>
+				</div>
+
+			</div>
+		 </div>
+	</div>
+	<div class="col-md-3">
+		<h2>Superfoods with Anti-aging Benefits</h2>
+		<div>
+			<ul>
+				<li><a href="#">ACAI &#62</a></li>
+				<li><a href="#">CAMU &#62</a></li>
+				<li><a href="#">GOLDENBERRIES &#62</a></li>
+				<li><a href="#">HEMP &#62</a></li>
+				<li><a href="#">HULBERRIES &#62</a></li>
+
+			</ul>
+		</div>
+		<div>
+			<img src="css/images/leaves.png" id="leaves" alt="leaves.png">
+		</div>
+	</div>
+
+</section>
+
+<section class="container-fluid" id="climbe">
+	<div class=" col-md-6 col-xs-12 climberstory">
+		<h2>WALKING THE ARIZONA TRAIL</h2>
+		<h3>STORY FROM INSIEDER HEATHER ANDERSON</h3>
+		<p>Duis autem  iaculis aliquet leo nec venenatis. Nunc et fringilla eros. Vestibulum congue, mauris sed pretium gravida, libero orci molestie turpis, a tincidunt dui dolor eu nisi. Proin pretium leo vel est auctor, vehicula pharetra urna ornare. Morbi aliquam, nibh sit amet feugiat convallis, enim eros interdum ligula, ut sollicitudin</p>
+		<br>
+		<span><p>- Heather Anderson</p></span>
+
+	</div>
+	<div class="col-md-6 col-xs-12">
+		<img src="css/images/climber.png" alt="climber" id="climberimg" class="img-responsive">
+	</div>
+
+</section>
+<div class="separator"></div><!-- /.separator -->
+
+<section class="recipessliders">
+	<h2>Anti-aging Superfood Recipes</h2>
+	<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+  
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox">
+    <div class="item active">
+      <img src="css/images/oneslider.jpg" alt="recipe1">
+  
+
+
+      <div class="carousel-caption">
+     
+      </div>
+    </div>
+    
+   
+  </div>
+
+  <!-- Controls -->
+  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+</section>
+
+<section class="foodproduct">
+	<h2>Anti-aging Superfood Product</h2>
+	<div class="container-fluid" id="foodgroup">
+		<div class="row">
+			<div class="col-md-4 col-xs-12 col-lg-2 col-lg-offset-1">
+				<div>
+					<img src="css/images/product1.jpg">
+				</div>
+					<p>Cacao Powder</p>
+					<p>$8.99</p>
+					<button type="button" class="btn btn-success">ADD TO CART</button>
+				
+			</div>
+			<div class="col-md-4 col-xs-12 col-lg-2">
+				<div>
+					<img src="css/images/product2.jpg">
+				</div>
+					<p>Powder Snacks Blueberry Hemp</p>
+					<p>$8.99</p>
+					<button type="button" class="btn btn-success">ADD TO CART</button>
+				
+			</div>
+			<div class="col-md-4 col-xs-12 col-lg-2">
+				<div>
+					<img src="css/images/product3.jpg">
+				</div>
+					<p>Almond Cacao Hemp</p>
+					<p>$8.99</p>
+					<button type="button" class="btn btn-success">ADD TO CART</button>
+				
+			</div>
+			<div class="col-md-4 col-xs-12 col-lg-2">
+				<div>
+					<img src="css/images/product4.jpg">
+				</div>
+					<p>Goji Berries</p>
+					<p>$8.99</p>
+					<button type="button" class="btn btn-success">ADD TO CART</button>
+				
+			</div>
+			<div class="col-md-4 col-xs-12 col-lg-2">
+				<div>
+					<img src="css/images/product5.jpg">
+				</div>
+					<p>Maca Gelatinized Powder</p>
+					<p>$8.99</p>
+					<button type="button" class="btn btn-success">ADD TO CART</button>
+				
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-md-4 col-xs-12 col-lg-2 col-lg-offset-1">
+				<div>
+					<img src="css/images/product6.jpg">
+					<p>Almond Cacao Hemp</p>
+					<p>$8.99</p>
+					<button type="button" class="btn btn-success">ADD TO CART</button>
+				</div>
+			</div>
+			<div class="col-md-4 col-xs-12 col-lg-2">
+				<div>
+					<img src="css/images/product7.jpg">
+					<p>Cacao Nibs</p>
+					<p>$8.99</p>
+					<button type="button" class="btn btn-success">ADD TO CART</button>
+				</div>
+			</div>
+			<div class="col-md-4 col-xs-12 col-lg-2">
+				<div>
+					<img src="css/images/product8.jpg">
+					<p>Maca Powder</p>
+					<p>$8.99</p>
+					<button type="button" class="btn btn-success">ADD TO CART</button>
+				</div>
+			</div>
+			<div class="col-md-4 col-xs-12 col-lg-2">
+				<div>
+					<img src="css/images/product9.jpg">
+					<p>Cashews Maca Maple</p>
+					<p>$8.99</p>
+					<button type="button" class="btn btn-success">ADD TO CART</button>
+				</div>
+			</div>
+			<div class="col-md-4 col-xs-12 col-lg-2">
+				<div>
+					<img src="css/images/product10.jpg">
+					<p>Almond Tumeric Tameri</p>
+					<p>$8.99</p>
+					<button type="button" class="btn btn-success">ADD TO CART</button>
+				</div>
+			</div>
+		</div>
+		<div class="row" id="lastrow">
+			<div class="col-md-4 col-xs-12 col-lg-2 col-lg-offset-4">
+				<div>
+					<img src="css/images/product11.jpg">
+					<p>Almond Cacao Hemp</p>
+					<p>$8.99</p>
+					<button type="button" class="btn btn-success">ADD TO CART</button>
+				</div>
+			</div>
+			<div class="col-md-4 col-xs-12 col-lg-2">
+				<div>
+					<img src="css/images/product12.jpg">
+					<p>Cacao Nibs</p>
+					<p>$8.99</p>
+					<button type="button" class="btn btn-success">ADD TO CART</button>
+				</div>
+			</div>
+	</div>
+</section>

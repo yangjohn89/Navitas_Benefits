@@ -1,0 +1,200 @@
+/* ------------------------------------------------------------ */
+/* -----------------------Jasmine's CSS------------------------ */
+/* ------------------------------------------------------------ */
+
+/* -----------------------Intro Images------------------------------- */
+#company_intro_left {background-image: url(http://api.boomity.com/media/assets/group/209/themes/bootstrap/css/images/company-photo.png);}
+
+#company_intro_right {background-image: url(http://api.boomity.com/media/assets/group/209/themes/bootstrap/css/images/sidephoto.png);}
+
+#superfoods_intro_left {background-image: url(http://api.boomity.com/media/assets/group/209/themes/bootstrap/css/images/macapowder.png);}
+
+#superfoods_intro_right {background-image: url(http://api.boomity.com/media/assets/group/209/themes/bootstrap/css/images/macaroots.png);}
+
+/* -----------------------End Intro Images------------------------------- */
+
+/* -----------------------Intro------------------------------- */
+#superFoodButton {
+  margin-left: 35px;
+}
+
+/* -----------------------End Intro ------------------------------- */
+
+/* -----------------------Container ------------------------------- */
+.container #macaContainer {
+    margin-top: 50px;
+}
+
+#superFoods {
+  font-family: font-family:'Gotham', 'Helvetica', sans-serif;
+  font-weight: 200;
+}
+
+.container row {
+  padding: 20px;
+  margin: 20px;
+}
+
+ .container #organicPhoto {
+  float: left;
+  width: 40%;
+  height: 15%;
+  margin-left: -2.7px;
+  margin-top: 40px;
+}
+
+.container #macaPhoto {
+  margin-top: -100px;
+  width: 500px;
+  height: 400px;
+  margin-left: -95px;
+
+}
+
+/* -----------------------End Container ------------------------------- */
+
+/* -----------------------Container Fluid ------------------------------- */
+
+
+
+.container-fluid h2 {
+   color: #5A6771;
+   font-family: 'Archer', 'Helvetica', sans-serif;
+   padding: 3px;
+}
+
+.container-fluid p {
+   color: #5A6771;
+   font-family: 'Archer', 'Helvetica', sans-serif;
+   padding: 3px;
+   font-size: 15px;
+}
+
+
+#peruPhoto {
+  width: 80%;
+  height: 80%;
+  margin-left: -30px;
+}
+
+#peruMap {
+  width: 50%;
+  height: 50%;
+  padding-top: 25px;
+  float: right;
+  margin-right: 15px;
+}
+
+#HowToUse {
+  padding-top: 40px;
+}
+
+#HowToUse p {
+  font-size: 18px;
+}
+
+#peruDiv { 
+  background-color: #90cdbe;
+  padding-top: 40px;
+}
+
+
+@media (max-width: 500px) {
+  #peruDiv .img-responsive { 
+     margin: 0 auto;
+  }
+}
+
+@media (max-width: 600px) {
+  #peruDiv .img-responsive { 
+     margin: 0 auto;
+  }
+}
+
+@media (max-width: 650px) {
+  #peruDiv .img-responsive { 
+     margin: 0 auto;
+  }
+}
+
+@media (max-width: 675px) {
+  #peruDiv .img-responsive { 
+     margin: 0 auto;
+  }
+}
+
+
+/* -----------------------End Container Fluid ------------------------------- */
+
+
+
+/* -----------------------Section Products ------------------------------- */
+
+
+
+
+
+#Products img{
+  height: 50%;
+  width: 50%;
+}
+
+#addToCart{
+background-color: #90cdbe;
+border-color: transparent;
+margin-top: 10px;
+}
+
+
+}
+
+@media (max-width: 600px) {
+
+}
+@media (max-width: 700px) {
+
+
+}
+@media (min-width: 750px) {
+.products > ul > li {
+    width: 25%;
+
+
+}
+
+
+
+/* -----------------------End Section Products ------------------------------- */
+
+
+
+/* -----------------------Carousel ------------------------------- */
+#carousel {
+
+}
+
+
+
+.overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #FFF;
+    opacity: 0.3;
+    transition: all 0.2s ease-out;
+}
+
+#carousel img{
+  width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+/* -----------------------End Carousel ------------------------------- */
